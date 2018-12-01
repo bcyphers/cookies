@@ -1,9 +1,19 @@
-Preheat oven to 375 degrees.
-Blend crisco, sugars, egg, and vanilla in a large bowl.
-Sift dry ingredients and blend them into the main bowl.
-Stir in chocolate chips.
-Drop large spoonfuls onto ungreased cookie sheet. 
-Bake 7-9 minutes, until cookies are slightly darker than raw dough.
-Leave on cookie sheet 5 minutes before transferring to wire cooking rack.
-Cookies should be soft!
-Store in cookie jar with a slice of plain bread.
+# Instructions
+
+1. Preheat oven to 375 degrees.
+
+2. Blend crisco, sugars, eggs, and vanilla in a large bowl.
+
+3. Sift dry ingredients and blend them into the main bowl.
+ 
+4. Stir in chocolate chips.
+ 
+5. Roll large spoonfuls of cookie dough into balls, then drop onto ungreased
+   cookie sheet. Dough balls should be well separated on sheet.
+ 
+6. Bake 7-9 minutes, until cookies are slightly darker than raw dough.
+ 
+7. Leave on cookie sheet 5 minutes before transferring to wire cooking rack.
+   Cookies should be soft after cooling!
+ 
+8. Store in cookie jar with a slice of plain bread.
